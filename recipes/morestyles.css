@@ -1,0 +1,15 @@
+h1 {
+    color: rgba(217, 172, 56, 0.8);
+}
+
+h2 {
+    color: rgba(217, 172, 56, 0.8); 
+}
+
+h3 {color: rgba(60, 41, 15, 0.7);
+}
+
+body {
+    color: rgba(60, 41, 15, 0.7);
+    background-color: rgba(176, 164, 88, 0.3);
+}
